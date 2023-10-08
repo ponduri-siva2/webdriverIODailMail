@@ -1,0 +1,9 @@
+{
+  "script": "return ((video) => video.pause).apply(null, arguments)",
+  "args": [
+    {
+      "element-6066-11e4-a52e-4f735466cecf": "D9E28A0B7908ECA5990E821E48011B15_element_2",
+      "ELEMENT": "D9E28A0B7908ECA5990E821E48011B15_element_2"
+    }
+  ]
+}

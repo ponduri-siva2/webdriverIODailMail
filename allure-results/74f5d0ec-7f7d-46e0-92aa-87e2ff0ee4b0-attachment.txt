@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".primary_2xk2l"
+}

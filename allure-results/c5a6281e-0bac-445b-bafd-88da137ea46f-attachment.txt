@@ -1,0 +1,4 @@
+{
+  "script": "return (() => {\n        const video = document.querySelector('#vjs_video_3 video.vjs-tech');\n        return video.duration;\n    }).apply(null, arguments)",
+  "args": []
+}

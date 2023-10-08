@@ -1,0 +1,4 @@
+{
+  "script": "return (() => {\n        const body = document.body;\n        body.focus();\n    }).apply(null, arguments)",
+  "args": []
+}

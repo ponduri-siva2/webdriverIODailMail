@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#vjs_video_3 video.vjs-tech"
+}

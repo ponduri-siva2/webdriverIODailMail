@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div.video-ad-label.vjs-control"
+}

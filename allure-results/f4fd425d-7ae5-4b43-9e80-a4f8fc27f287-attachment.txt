@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".vjs-control-bar .vjs-play-control .vjs-playing"
+}

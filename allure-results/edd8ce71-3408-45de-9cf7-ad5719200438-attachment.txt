@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div.vjs-control-bar>.vjs-volume-menu-button.vjs-menu-button.vjs-control.vjs-vol-0"
+}
